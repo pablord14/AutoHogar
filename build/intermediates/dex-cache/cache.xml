@@ -30,6 +30,51 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_82bf1cb76dc00a3ec632d5e93229a31cb0553090/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_5c38a562f415c6f88e44e37a54e9fa83d3f558d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_9deef87838c67921ea0ad63642a182392ec4af31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_676c7e7532316d8657309260a296dce24ced4f23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_90b4b0148a0286611852b1a6a3d78ec317be7c86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
@@ -61,26 +106,8 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="66d9648761b1f1651185f1ea5ecdf61117afbdbc">
+        sha1="9047bacf5fc0ba3f33a274ebb22900f715adc452">
         <dex dex="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fc5f1afd99916814d9c5a147c1512b084659f41f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_82bf1cb76dc00a3ec632d5e93229a31cb0553090/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_5c38a562f415c6f88e44e37a54e9fa83d3f558d8/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -97,17 +124,8 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="15e01ccd1427f15a28b6cd3e8a46c33d27fe268e">
+        sha1="c2117840277a667f8bca1afd6f9ec9e719369ef6">
         <dex dex="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2eaabe7ddd6e27e20533b8d6ee5eb899f73d0b05/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_9deef87838c67921ea0ad63642a182392ec4af31/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -120,30 +138,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_676c7e7532316d8657309260a296dce24ced4f23/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
         <dex dex="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f5a0ceb336448ffaa915728f56359ce7c740816d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/home/pablord/AndroidStudioProjects/AutoHogar/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_90b4b0148a0286611852b1a6a3d78ec317be7c86/classes.dex" />
     </item>
     <item
         is-multidex="true"
