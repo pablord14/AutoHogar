@@ -24,7 +24,7 @@ import java.net.UnknownHostException;
 public class MainActivity extends AppCompatActivity {
 
     private WebView webView;
-    private String paginaWeb = "http://192.168.0.106:8000/web/";
+    private String paginaWeb = "http://192.168.0.107:8000/web/";
     private SwipeRefreshLayout swipeContainer;
 
     @Override
