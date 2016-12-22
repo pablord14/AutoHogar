@@ -24,7 +24,7 @@ import java.net.UnknownHostException;
 public class MainActivity extends AppCompatActivity {
 
     private WebView webView;
-    private String paginaWeb = "http://192.168.0.107:8000/web/";
+    private String paginaWeb = "http://192.168.0.199/web/";
     private SwipeRefreshLayout swipeContainer;
 
     @Override
@@ -56,12 +56,12 @@ public class MainActivity extends AppCompatActivity {
                 // once the network request has completed successfully.
                 //fetchTimelineAsync(0);
 
-                    final Intent intent = getIntent();
-                    intent.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
-                    finish();
-                    overridePendingTransition(0, 0);
-                    startActivity(intent);
-                    overridePendingTransition(0, 0);
+                final Intent intent = getIntent();
+                intent.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
+                overridePendingTransition(0, 0);
+                finish();
+                overridePendingTransition(0, 0);
+                startActivity(intent);
             }
         });
         // Configure the refreshing colors
